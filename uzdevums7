@@ -1,6 +1,6 @@
 import spacy
 
-nlp = spacy.load("lv_core_news_sm")  # Latvian model
+nlp = spacy.load("lv_core_news_sm")
 
 words = ["māja", "dzīvoklis", "jūra"]
 
